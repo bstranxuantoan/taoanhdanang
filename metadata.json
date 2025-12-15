@@ -1,0 +1,5 @@
+{
+  "name": "Tạo Ảnh Đa Năng - AI Image Creator",
+  "description": "Tạo hình ảnh tuyệt đẹp từ văn bản hoặc biến đổi ảnh của bạn bằng Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
